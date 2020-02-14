@@ -35,5 +35,6 @@ Getting Started
 }
 </code></pre>
 
-### 4. 실행 ###
- - 프로젝트 경로 내 server.js 실행
+### 4. 실행 및 요청 ###
+- 프로젝트 경로 내 server.js 실행
+- [웹 기반 3차원 편집도구](https://github.com/ODTBuilder/OpenGDS3DBuilder2019Prod) 설치 및 실행 후 REST 요청 가능
