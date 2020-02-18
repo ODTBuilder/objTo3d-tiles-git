@@ -21,7 +21,7 @@ Getting Started
 - node v10.16.0
 
 ### 2. Clone or Download ###
-- https://github.com/ODTBuilder/Validator 접속 후 Git 또는 SVN을 통해 Clone 하거나 zip 파일 형태로 소스코드 다운로드 
+- https://github.com/ODTBuilder/objTo3d-tiles-git 접속 후 Git 또는 SVN을 통해 Clone 하거나 zip 파일 형태로 소스코드 다운로드 
 
 ### 3. 환경설정 ###
 - 프로젝트 경로 내 config.json 파일 열기
