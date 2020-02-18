@@ -1,6 +1,5 @@
 {
-    "apachfolderpath": "D:/data",
-    "apachfoldername": "gdofiles",
+    "datapath": "D:/data",
     "serverhost": "localhost",
     "serverport": "8888"
 }
