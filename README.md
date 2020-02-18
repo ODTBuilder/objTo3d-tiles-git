@@ -27,11 +27,9 @@ Getting Started
 - 프로젝트 경로 내 config.json 파일 열기
 - 개인 개발환경에 따라 config.json 파일 수정
 <pre><code> 
-{
-    "datapath": "D:/data",   // obj 파일 다운로드 경로
+{   "datapath": "D:/data",   // obj 파일 다운로드 경로
     "serverhost": "localhost",      // 아파치 서버 호스트
-    "serverport": "8888"            // 아파치 서버 포트
-}
+    "serverport": "8888"            // 아파치 서버 포트 }
 </code></pre>
 
 ### 4. 실행 및 요청 ###
