@@ -17,7 +17,7 @@ const unzip = require('unzip-stream');
 const zl = require("zip-lib");
 
 const port = 3000;
-const apachfolderpath = properties.apachfolderpath;
+const apachfolderpath = properties.datapath;
 !fs.existsSync(apachfolderpath) && fs.mkdirSync(apachfolderpath); // 디폴트 폴더 없을시 생성
 app.use(express.json()) //json파싱을 위한 선언
 
